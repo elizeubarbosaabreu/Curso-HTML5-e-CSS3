@@ -4,7 +4,7 @@ Este é o resultado do conteúdo aprendido durante o curso Introdução a Criaç
 
 # Estrutura básica do html
 
-'''html5
+~~~html5
 <!DOCTYPE html>
 <html>
 	<head>
@@ -15,5 +15,4 @@ Este é o resultado do conteúdo aprendido durante o curso Introdução a Criaç
 		Elizeu Barbosa Abreu
 	</body>
 </html>
-
-'''
+~~~
