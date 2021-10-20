@@ -4,7 +4,7 @@ Este é o resultado do conteúdo aprendido durante o curso Introdução a Criaç
 
 # Estrutura básica do html
 
-~~~html5
+~~~html
 <!DOCTYPE html>
 <html>
 	<head>
