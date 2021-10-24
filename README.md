@@ -2,22 +2,22 @@
 
 Este é o resultado do conteúdo aprendido durante o curso Introdução a Criação de Websites com HTML5 e CSS3 relizado gratuitamente pela [Digital Innovation One](https://web.digitalinnovation.one/).
 
-# Estrutura básica do html
+## Estrutura básica do html
 
 ~~~html
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Elizeu Barbosa Abreu</title>
+		<title>Isso É o título que aparece na baba do browser</title>
 	</head>
 	<body>
-		Elizeu Barbosa Abreu
+		<p>Quiquia adipisci velit est magnam non non etincidunt. Sit etincidunt dolorem eius quaerat ut. Porro aliquam quisquam dolor. Quiquia velit sit non. Neque quaerat ipsum sit numquam. Dolor ut magnam est quiquia. Quaerat est ipsum modi aliquam. Velit dolorem consectetur sed numquam ipsum. Sit velit labore ipsum numquam quisquam tempora non. Sed dolor dolore modi labore sed ut eius.</p>
 	</body>
 </html>
 ~~~
 
-# Acrescentado seções  na estrutura do index.html
+## Acrescentado seções  na estrutura do index.html
 
 ~~~html
 <!DOCTYPE html>
@@ -52,3 +52,40 @@ Este é o resultado do conteúdo aprendido durante o curso Introdução a Criaç
 </html>
 
 ~~~
+
+## Textos e Links
+### Tags para textos
+~~~html
+<h1>Título da Página</h1>
+
+<h2>Título de Sessão</h2>
+
+<h3>Título de Artigo</h3>
+
+<p>Conteúdo do Artigo.</p>
+
+~~~
+### Tags para Links
+~~~html
+<a>link</a>
+
+<a href="https://www.linkedin.com/in/elizeu-barbosa-abreu-69965b218/">linkedin url</a>
+
+<a href="mailto:seuemail@seuprovedor.com">Link para email</a>
+
+<a hret="tel:08007250100">Ligar para 0800 725-0100</a>
+
+<a target="_blank">Link Âncora</a>
+
+~~~
+
+Resultado:
+<a>link</a>
+
+<a href="https://www.linkedin.com/in/elizeu-barbosa-abreu-69965b218/">linkedin url</a>
+
+<a href="mailto:seuemail@seuprovedor.com">Link para email</a>
+
+<a hret="tel:08007250100">Ligar para 0800 725-0100</a>
+
+<a target="_blank">Link Âncora</a>
