@@ -16,5 +16,12 @@ Labore sed modi ut numquam aliquam sit. Magnam consectetur sit porro.
 Dolorem velit consectetur labore dolorem. Ut ut numquam quaerat consectetur ipsum.</p> 
 
 [Voltar para início](https://github.com/elizeubarbosaabreu/Curso-HTML5-e-CSS3)
+
+<hr>
 							
-- Elizeu Barbosa Abreu. Todos os direitos reservados...
+Elizeu Barbosa Abreu. Todos os direitos reservados...
+
+<ul>
+					<li><a target="_blank" href="https://www.linkedin.com/in/elizeu-barbosa-abreu-69965b218/">Linkedin</a></li>
+					<li><a target="_blank" href="https://github.com/elizeubarbosaabreu">GitHub</a></li>	
+				</ul>		
