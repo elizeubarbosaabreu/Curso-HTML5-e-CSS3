@@ -79,13 +79,11 @@ Este é o resultado do conteúdo aprendido durante o curso Introdução a Criaç
 
 ~~~
 
-Resultado:
-<a>link</a>
+### Tags para imagens
+~~~html
+<img>
 
-<a href="https://www.linkedin.com/in/elizeu-barbosa-abreu-69965b218/">linkedin url</a>
+<img alt="Logo do Linux" src="images/gnuLinux.png">
 
-<a href="mailto:seuemail@seuprovedor.com">Link para email</a>
-
-<a hret="tel:08007250100">Ligar para 0800 725-0100</a>
-
-<a target="_blank">Link Âncora</a>
+~~~
+Resultado: <img alt="Logo do Linux" src="images/gnuLinux.png">
