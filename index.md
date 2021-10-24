@@ -19,14 +19,6 @@
 					<h3>Dolor numquam adipisci</h3>
 				</header>
 				<p>
-					Adipisci porro <a href="https://github.com/elizeubarbosaabreu" target="_blank">aliquam modi numquam non consectetur</a>. 
-					Numquam quisquam eius dolore velit. 
-					Voluptatem voluptatem ipsum porro. Velit quisquam etincidunt est. 
-					Consectetur dolor aliquam numquam quisquam sed. 
-					Numquam quiquia modi labore quaerat sed.
-				</p>
-
-				<p>
 					<img alt="Logo do Linux" src="images/gnuLinux.png">
 				</p>
 
