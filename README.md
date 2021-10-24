@@ -54,9 +54,10 @@ Confira no [index.md](index.md) a visualização da página criada durante os es
 	</body>
 </html>
 ~~~
-<hr>
+
 ## Textos e Links
 ### Tags para textos
+
 ~~~html
 <h1>Título da Página</h1>
 
@@ -66,8 +67,10 @@ Confira no [index.md](index.md) a visualização da página criada durante os es
 
 <p>Conteúdo do Artigo.</p>
 ~~~
-<hr>
+
+
 ### Tags para Links
+
 ~~~html
 <a>link</a>
 
@@ -80,7 +83,7 @@ Confira no [index.md](index.md) a visualização da página criada durante os es
 <a target="_blank">Link Âncora</a>
 
 ~~~
-<hr>
+
 ### Tags para imagens
 ~~~html
 <img>
@@ -89,7 +92,8 @@ Confira no [index.md](index.md) a visualização da página criada durante os es
 
 ~~~
 Resultado: <img alt="Logo do Linux" src="images/gnuLinux.png">
-<hr>
+
+
 ### Tags de listas: li, ul, ol
 
 Código:
@@ -106,7 +110,8 @@ Resultado:
     <li>Item 2</li>
     <li>Item 3</li>
 </ul>
-<hr>
+
+
 Código:
 ~~~html
 <ol>
