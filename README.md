@@ -3,7 +3,7 @@
 Este é o resultado do conteúdo aprendido durante o curso Introdução a Criação de Websites com HTML5 e CSS3 relizado gratuitamente pela [Digital Innovation One](https://web.digitalinnovation.one/).
 
 # Página gerada durante os estudos
-Confira no [index.md](index.md) a visualização da página criada durante os estudos... \(¨)/
+Confira no [index.md](index.md) a visualização da página criada durante os estudos... ¬(¨)-¬
 
 ## Estrutura básica do html
 
