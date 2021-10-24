@@ -126,5 +126,33 @@ Resultado:
     <li>Item 2</li>
     <li>Item 3</li>
 </ol>
-<hr>
+
+### Adição de estilos
+foi criado uma pasta para folhas de estilos.
+estilos adicionados: 
+~~~css
+body {
+	background-color: #cccccc;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 25px;	
+}
+
+
+#title, .subtitle, .post_title {
+	color: blue;	
+}
+
+.post_title {
+	font-size: 14px;
+	font-style: italic;
+}
+
+article {
+	background-color: #fff;
+	padding: 10px;
+	border: 3px solid #000000;
+
+}
+~~~
 
