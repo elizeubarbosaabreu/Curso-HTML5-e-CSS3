@@ -13,7 +13,7 @@ a {
 
 #title, .subtitle, .post_title {
 	color: blue;
-	text-transform: uppercase;	
+	text-transform: capitalize;	
 }
 
 #title {
@@ -21,7 +21,7 @@ a {
 }
 
 .post_title {
-	font-size: 14px;
+	font-size: 16px;
 	font-style: italic;
 }
 
@@ -31,29 +31,46 @@ article {
 	border: 3px solid #000;
 	border-radius: 5%;
 	font-family: Verdana;
-	font-size: 12px;	
+	font-size: 14px;	
 }
 
 .tux {
 	width: 250px;
 	height: 300px;
-	border: 1px solid #000000;
+	border: 1px solid #000;
 	border-radius: 5%;
 	border-top-width: 15px;
 	background-color: #000;
 }
 
+#title_footer {
+	color: purple;
+	font-size: 18px
+
+}
 
 #image {
 	align-items: center;
 }
 
+#footer_left {
+	float: left;
+	border: 3px solid #000;
+	padding-left: 25px;	
+	padding-right: 25px;	
+	border-radius: 50%;
+	background-color: yellow;
+}
+
+ul {
+	list-style-type: "✔";
+}
+
 footer {	
 	position: fixed;  	
-  	bottom: 1px;
+  	bottom: 0px;
   	width: 100%;
-  	background-color: #ccc;
+  	background-color: transparent;
   	color: black;
-  	text-align: center;
 
 }

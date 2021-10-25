@@ -43,11 +43,8 @@ Confira no [index.html](https://elizeubarbosaabreu.github.io/Curso-HTML5-e-CSS3/
 				<header>
 					<h3>Dolor numquam adipisci</h3>
 				</header>
-			<p>Adipisci porro aliquam modi numquam non consectetur. Numquam quisquam eius dolore velit. Voluptatem voluptatem ipsum porro. Velit quisquam etincidunt est. Consectetur dolor aliquam numquam quisquam sed. Numquam quiquia modi labore quaerat sed.</p>
-
-			<p>Dolor numquam adipisci sit neque amet. Amet etincidunt quiquia voluptatem labore neque quiquia porro. Labore aliquam magnam velit neque adipisci. Ipsum non non ipsum porro labore est porro. Aliquam amet amet consectetur dolore non quiquia sit.</p>
-
-			<p>Dolore dolore modi dolor. Voluptatem dolorem porro consectetur. Amet numquam sit aliquam tempora. Neque eius voluptatem aliquam sit dolor. Sed quisquam quiquia adipisci magnam numquam. Non numquam eius amet tempora. Labore sed modi ut numquam aliquam sit. Magnam consectetur sit porro. Dolorem velit consectetur labore dolorem. Ut ut numquam quaerat consectetur ipsum.</p> 
+				<p>Adipisci porro aliquam modi numquam non consectetur. Numquam quisquam eius dolore velit. Voluptatem voluptatem ipsum porro. Velit quisquam etincidunt est. Consectetur dolor aliquam numquam quisquam sed. Numquam quiquia modi labore quaerat sed.</p>
+                <p>Dolore dolore modi dolor. Voluptatem dolorem porro consectetur. Amet numquam sit aliquam tempora. Neque eius voluptatem aliquam sit dolor. Sed quisquam quiquia adipisci magnam numquam. Non numquam eius amet tempora. Labore sed modi ut numquam aliquam sit. Magnam consectetur sit porro. Dolorem velit consectetur labore dolorem. Ut ut numquam quaerat consectetur ipsum.</p> 
 							
 			</article>
 		</section>		
@@ -130,6 +127,19 @@ Resultado:
 ### Adição de estilos
 foi criado uma pasta para folhas de estilos.
 estilos adicionados: 
+- Para __id='exemplo'__ usa-se "#":
+~~~css
+#exemplo {
+    parametros
+}
+~~~
+- Para __class='exemplo'__ usa-se ".":
+~~~css
+.exemplo {
+    parametros
+}
+~~~
+### Outros exemplos:
 ~~~css
 body {
 	background-color: #cccccc;
